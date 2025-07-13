@@ -1,11 +1,3 @@
-<h1 align="center">👋 こんにちは、Yugo0716 です！</h1>
-<p align="center">
-  ゲーム開発とインタラクティブ表現が好きなエンジニアです。<br />
-  Unity / TypeScript / React を使って創作活動中！
-</p>
-
----
-
 ## 🏆 GitHub トロフィー
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Yugo0716&theme=gruvbox&column=4&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -38,46 +30,3 @@
 </p>
 
 ---
-
-## 📅 活動記録（最近の GitHub 活動）
-
-<!-- GitHub Actions で自動更新が必要 -->
-<!-- 以下の内容は https://github.com/Readme-Workflows/recent-activity を使用 -->
-<!-- まだ未設定の場合はコメントアウト推奨 -->
-
-<!--START_SECTION:activity-->
-<!--RECENT_ACTIVITY:start-->
-<!--ここに最近の活動が表示されます-->
-<!--RECENT_ACTIVITY:end-->
-<!--END_SECTION:activity-->
-
----
-
-## 📝 Zenn やブログの新着記事（自動取得）
-
-<!-- こちらも GitHub Actions で自動更新が必要です -->
-<!-- 例: Qiita/Zenn フィードを使う Actions を別途設定 -->
-
-<!--START_SECTION:blog-->
-<!--最近のブログが表示されます-->
-<!--END_SECTION:blog-->
-
----
-
-## 📌 ピックアッププロジェクト
-
-- 🎮 [インタラクティブ音響システム](https://github.com/Yugo0716/your-project)
-- 🛠 [Webアイデア管理ツール](https://github.com/Yugo0716/your-other-project)
-
----
-
-## 🔗 リンク集
-
-- 🌐 [ポートフォリオサイト](https://your-portfolio-url.com)
-- 🐦 [Twitter (X)](https://twitter.com/your-twitter-id)
-- 🧠 [Zenn](https://zenn.dev/your-id)
-- 💡 [Qiita](https://qiita.com/your-id)
-
----
-
-<p align="center">🌱 今後もどんどん学んでいきます！よろしくお願いします！</p>
