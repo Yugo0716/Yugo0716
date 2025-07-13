@@ -7,7 +7,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yugo0716&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yugo0716&show_icons=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugo0716&layout=compact&theme=tokyonight&count_private=true" height="180px"/>
 </div>
 
