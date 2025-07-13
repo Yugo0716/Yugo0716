@@ -7,8 +7,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https:/github-readme-stats-pi-plum-30.vercel.app/api?username=Yugo0716>
-  <img src="https:/github-readme-stats-18jo.vercel.app/api/?username=Yugo0716" height="180px"/>
+  <img src="https://github-readme-stats-pi-plum-30.vercel.app/api?username=Yugo0716&show_icons=true&count_private=true" />
 </div>
 
 ---
