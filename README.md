@@ -28,5 +28,6 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
-![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
+![Tech Stack](https://skillicons.dev/icons?i=js)
+![Tech Stack](https://skillicons.dev/icons?i=typescript)
 ---
