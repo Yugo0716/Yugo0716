@@ -8,6 +8,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats-pi-plum-30.vercel.app/api?username=Yugo0716&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats-pi-plum-30.vercel.app/api/top-langs/?username=Yugo0716&layout=compact&theme=default&count_private=true" />
+
 </div>
 
 ---
