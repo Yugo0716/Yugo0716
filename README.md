@@ -22,5 +22,13 @@
 ## 🧠 使用スキル・ツール
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,py,cs,unity" />
+<!-- 💻 言語 -->
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,html,css,r" />
+
+<!-- 🛠️ ツール / ライブラリ / フレームワーク -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,opencv,latex,git,visualstudio,vscode,powershell,azure" />
+
+<!-- 🔧 その他 -->
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,notion,discord,github,vercel" />
+
 </p>
