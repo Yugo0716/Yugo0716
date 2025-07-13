@@ -1,22 +1,10 @@
-## 🏆 GitHub トロフィー
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Yugo0716&theme=flat&column=4&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-pi-plum-30.vercel.app/api?username=Yugo0716&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats-pi-plum-30.vercel.app/api/top-langs/?username=Yugo0716&layout=compact&theme=default&count_private=true" />
+  <img src="https://github-readme-stats-pi-plum-30.vercel.app/api?username=Yugo0716&show_icons=true&count_private=true&&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-pi-plum-30.vercel.app/api/top-langs/?username=Yugo0716&layout=compact&langs_count=6&hide=shaderlab,hlsl&theme=default&count_private=true&size_weight=0.5&count_weight=0.5" />
 
 </div>
-
----
-
-## 🔥 GitHub ストリーク
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yugo0716&theme=default)](https://git.io/streak-stats)
 
 ---
 
