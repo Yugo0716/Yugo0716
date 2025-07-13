@@ -22,13 +22,5 @@
 ## 🧠 使用スキル・ツール
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,py,cs,unity" />
 </p>
