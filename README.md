@@ -8,8 +8,7 @@
 
 <div align="center">
   <img src="https:/github-readme-stats-18jo.vercel.app/api?username=Yugo0716>
-    ![github-readme-stats](https:/github-readme-stats-18jo.vercel.app/api/?username=Yugo0716)
-  <img src="github-readme-stats-18jo.vercel.app/api/top-langs/?username=Yugo0716&layout=compact&count_private=true&theme=default" height="180px"/>
+  <img src="https:/github-readme-stats-18jo.vercel.app/api/?username=Yugo0716" height="180px"/>
 </div>
 
 ---
