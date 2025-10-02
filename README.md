@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github-readme-stats-pi-plum-30.vercel.app/api?username=Yugo0716&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
   
-  <img src="https://github-readme-stats-pi-plum-30.vercel.app/api/top-langs/?username=Yugo0716&hide_border=true&layout=compact&langs_count=7&hide=shaderlab,hlsl&theme=default&count_private=true&size_weight=0.5&count_weight=0.5" />
+  <img src="https://github-readme-stats-pi-plum-30.vercel.app/api/top-langs/?username=Yugo0716&hide_border=true&layout=compact&langs_count=7&hide=shaderlab,hlsl&theme=default&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
 
 ---
