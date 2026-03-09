@@ -18,7 +18,7 @@
 
 <p>
 <!-- 💻 言語 -->
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,html,css,r" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,html,css,r,markdown" />
 <br><br>
 <!-- 🛠️ ツール / ライブラリ / フレームワーク -->
 <img src="https://skillicons.dev/icons?i=unity,react,nextjs,nodejs,tailwind,opencv,latex,git,visualstudio,vscode,powershell,azure" />
