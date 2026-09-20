@@ -5,9 +5,10 @@
   
   <img src="https://github-readme-stats-pi-plum-30.vercel.app/api/top-langs/?username=Yugo0716&hide_border=true&layout=compact&langs_count=8&hide=shaderlab,hlsl&theme=default&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,Portfolio" />
 
+[![Yugo's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Yugo0716?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yugo0716&title=-Stars,-Followers&column=-1
-)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yugo0716&title=-Stars,-Followers&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
